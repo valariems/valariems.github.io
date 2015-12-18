@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      {% if page.hero %}
+        <img src="{{ page.hero }}" />
+      {% endif %}
+
+      {% if page.background %}
+        <div style="background: url('{{ page.background }}') no-repeat;" /></div>
+      {% endif %}
+
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="/assets/js/jquery.sticky.js"></script>
+    <script src="/assets/js/jribbble.min.js"></script>
+    <script src="/assets/js/main.js"></script>
+  </body>
+
+</html>
