@@ -2,14 +2,10 @@
 layout: post
 title:  "Rolling a new Jekyll site"
 date:   2015-12-13 20:00:00 -0600
-hero: /assets/images/blog/jekyll.jpg
+blog-hero: /assets/images/blog/jekyll.jpg
 ---
 
-It's been over three years since my last website redesign, so it's time. Well, past time.
-
-The site you're seeing now is my first build using [Jekyll](https://jekyllrb.com/ "Jekyll").
-
-Quick observations from my first day in Jekyll:
+It's been over three years since my last website redesign, so it's time. Well, past time. The site you're seeing now is my first build using [Jekyll](https://jekyllrb.com/ "Jekyll"). So here's some quick observations from my first day in Jekyll:
 
 * Getting set up was relatively simple, and less time-consuming than rolling a new site in something like Ruby on Rails or Drupal. It still took a while, since things like command line installations still give me pause, but it came together well with no frustration.
 
