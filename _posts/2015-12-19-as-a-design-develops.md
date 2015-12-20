@@ -2,7 +2,7 @@
 layout: post
 title:  "As a design develops"
 date:   2015-12-19 14:21:50 -0600
-hero: /assets/images/blog/puzzle-design.jpg
+blog-hero: /assets/images/blog/puzzle-design.jpg
 ---
 
 When I started redesigning this site, I had a vision. My home page would be a feed of my Dribbble shots instead of the animated story I was previously using. I'd keep the same structure as before: home, about, resume, portfolio, and contact page. I'd just bring the site into 2016 with full-screen images and a clean look.
