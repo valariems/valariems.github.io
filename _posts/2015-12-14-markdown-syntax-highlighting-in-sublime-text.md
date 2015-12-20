@@ -2,7 +2,7 @@
 layout: post
 title:  "Markdown syntax highlighting in Sublime Text"
 date:   2015-12-14 07:00:00 -0600
-blogimage: /assets/images/blog/md-subl.jpg
+hero: /assets/images/blog/md-subl.jpg
 ---
 
 After a few hours of composing content for Jekyll using Markdown, I had a problem that needed to be solved. At that point, I wanted to revert to HTML just for the indents and syntax highlighting that offered visual clues to my typographical hierarchy.

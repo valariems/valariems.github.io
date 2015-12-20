@@ -2,7 +2,7 @@
 layout: post
 title:  "Rolling a new Jekyll site"
 date:   2015-12-13 20:00:00 -0600
-blogimage: /assets/images/blog/jekyll.jpg
+hero: /assets/images/blog/jekyll.jpg
 ---
 
 It's been over three years since my last website redesign, so it's time. Well, past time.
