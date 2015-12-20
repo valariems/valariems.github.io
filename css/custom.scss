@@ -63,9 +63,6 @@ ul.post-list {
   }
   a:hover {
     text-decoration: none;
-    .teaser-img-wrapper {
-      opacity: 0.9;
-    }
     .teaser-txt-wrapper {
       background-color: #f6f6f6;
       span {
@@ -89,6 +86,7 @@ ul.post-list {
     h2 {
       font-family: 'Roboto Condensed', sans-serif;
       font-size: 1.8em;
+      line-height: 1.2;
       margin-bottom: 0;
     }
     .post-meta {
@@ -112,6 +110,7 @@ ul.post-list {
 }
 
 .teaser-txt-wrapper {
+  background-color: white;
   padding: 10px 30px;
   span {
     font-size: .8em;
