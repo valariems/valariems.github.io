@@ -3,16 +3,13 @@ layout: default
 title: Blog
 permalink: /blog/
 ---
-<h2 class="blog-intro">
-  My random musings and notes on user interface design, site building from a designer's perspective, and whatever else I'm inspired about at that very moment in time.
-</h2>
 
 <ul class="post-list">
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url | prepend: site.baseurl }}">
         <div class="teaser-img-wrapper">
-          <img src="{{ post.blogimage }}" class="blog-teaser-image" />
+          <img src="{{ post.hero }}" class="blog-teaser-image" />
         </div>
 
         <div class="teaser-txt-wrapper">

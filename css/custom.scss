@@ -57,7 +57,7 @@ ul {
 
 // blog
 ul.post-list {
-  margin-bottom: 50px;
+  margin: 50px 0;
   a {
     color: #333;
   }
@@ -87,11 +87,10 @@ ul.post-list {
       font-family: 'Roboto Condensed', sans-serif;
       font-size: 1.8em;
       line-height: 1.2;
-      margin-bottom: 0;
+      margin: 10px 0 5px 0;
     }
     .post-meta {
-      margin-top: 20px;
-      margin-bottom: 10px;
+      margin: 0 0 5px 0;
     }
   }
 }
