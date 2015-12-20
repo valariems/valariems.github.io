@@ -112,6 +112,8 @@ ul.post-list {
   align-items: center; /* align vertical */
   .blog-teaser-image {
     box-shadow: inset 0px 0px 10px rgba(0,0,0,0.9);
+    width: 100%;
+    height: auto;
   }
 }
 
