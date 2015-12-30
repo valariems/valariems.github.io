@@ -15,7 +15,7 @@ Here's some nuggets I've found about UI, UX, design and development that I'll wa
 
 "It was like the programmers just barfed the database onto the screen."
 
-#####Jared Spool, [User Interface Engineering](https://www.uie.com/ "User Interface Engineering")
+#####By Jared Spool, [User Interface Engineering](https://www.uie.com/ "User Interface Engineering")
 
 
 
@@ -23,7 +23,7 @@ Here's some nuggets I've found about UI, UX, design and development that I'll wa
 
 "If product design is about solving problems for people within the constraints of a specific business, then it simply feels that many people calling themselves product/UX designers are actually practicing digital art."
 
-#####Paul Adams, [Intercom](https://www.intercom.io/ "Intercom")
+#####By Paul Adams, [Intercom](https://www.intercom.io/ "Intercom")
 
 
 
@@ -31,7 +31,7 @@ Here's some nuggets I've found about UI, UX, design and development that I'll wa
 
 "It’s easy to see how a sentence, written in natural language, is more engaging than a traditional form. For one because it’s a novel concept and this fact alone sparks interest. More importantly however, a natural language form reflects the mental model of a user better than a traditional form."
 
-#####Jurgen Rohm, [Jurgen Rohm](http://www.jroehm.com/ "Jurgen Rohm")
+#####By Jurgen Rohm, [Jurgen Rohm](http://www.jroehm.com/ "Jurgen Rohm")
 
 
 
@@ -40,9 +40,18 @@ Here's some nuggets I've found about UI, UX, design and development that I'll wa
 ###[Getting Started with Homebrew](https://www.safaribooksonline.com/blog/2014/03/03/homebrew/ "Getting Started with Homebrew")
 "Package management tools simplify and centralize the acquisition and installation of software on your computer system. In fact, they automate it. With a single command, you can install not only the software package that you’re looking for, but also all of its dependencies...
 
-#####Shannon Appelcline, [Safari Books Online](https://www.safaribooksonline.com/blog/ "Safari Books Online")
+#####By Shannon Appelcline, [Safari Books Online](https://www.safaribooksonline.com/blog/ "Safari Books Online")
 
 ###[Keeping Your Homebrew Up to Date](https://www.safaribooksonline.com/blog/2014/03/18/keeping-homebrew-date/ "Keeping Your Homebrew Up to Date")
 "This post expands upon [Getting Started with Homebrew] basic ideas by talking about how to keep your Homebrew up to date — and so ensure it’s doing its job optimally."
 
-#####Shannon Appelcline, [Safari Books Online](https://www.safaribooksonline.com/blog/ "Safari Books Online")
+#####By Shannon Appelcline, [Safari Books Online](https://www.safaribooksonline.com/blog/ "Safari Books Online")
+
+
+
+##Ruby on Rails
+
+###[How to manage users with Devise - Ruby on Rails](http://www.peoplecancode.com/tutorials/how-to-manage-users-with-devise-ruby-on-rails "How to manage users with Devise - Ruby on Rails")
+An accurate, easy-to-follow guide for getting Devise up and running in a Rails 4 app. I went through several different tutorials with no success before I found and succeeded with this one.
+
+#####By Lukasz Muzyka, [PeopleCanCode](http://www.peoplecancode.com/ "PeopleCanCode")
