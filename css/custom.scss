@@ -55,6 +55,10 @@ ul {
   text-align: center;
 }
 
+blockquote {
+  letter-spacing: 0;
+}
+
 // blog
 .blog-hero {
   height: 300px;
@@ -141,6 +145,18 @@ article.post {
 .post-content > p:first-of-type {
   font-size: 1.3em;
   color: #575757;
+}
+
+.post-content {
+  img {
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    padding: 20px;
+    + em {
+      color: #999;
+      font-size: .8em;
+    }
+  }
 }
 
 .post-link {
