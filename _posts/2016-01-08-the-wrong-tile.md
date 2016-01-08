@@ -2,7 +2,7 @@
 layout: post
 title:  "The wrong tile"
 date:   2016-01-08 08:01:53 -0600
-blog-hero: /assets/images/blog/puzzle-design.jpg
+blog-hero: /assets/images/blog/checkboxes.jpg
 ---
 
 I recently remodeled the bathroom in my home. It was so satisfying to see that ugly 75-year-old floor tile and nasty tub surround demolished. I was eager to line the space with gleaming, modern ceramic and porcelain tile.
