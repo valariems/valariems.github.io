@@ -14,7 +14,7 @@ On the day the tile was to be installed, imagine our suprise when square 8" x 8"
 Or did I?
 
 ![Tile order form](/assets/images/blog/content/wrong-tile-checkbox.jpg)
-*What size tile would you order?*
+*Bad form design: What size tile would you order?*
 
 Take a quick glance at that  photo. It's the tile specifications from the tile store, on a sticker affixed to the back of a piece of tile. If you think the checked box is associated with the 8x8 choice, instead of the 9x12 choice, I wouldn't blame you. And I didn't blame the contractor for the mistake, either.
 
@@ -34,10 +34,14 @@ So from there, let's consider the principle of *past experiences*. This concept 
 
 When we glance at our form, we see that the checkbox before 8x8 is checked. Our past experience has taught us that checkboxes precede the option associated with it. Since we don't have any proximity clues, it's natural for us to assume that the checked box is for 8x8. In fact, when we actually mark the box using a pen, the ink mark knocks into the 8x8 text.
 
-All it takes to fix this form is moving the checkboxes in front of the options, and adding additional space between the options. With those simple changes, a user would have no doubt which tile to order, solving problems for both the tile store, the contractor, and the homeowner.
+All it takes to fix this form is moving the checkboxes in front of the options, and adding additional space between the options. With those simple changes, a user would have no doubt which tile to order.
 
 ![Tile order form](/assets/images/blog/content/better-tile-checkbox.jpg)
-*Simple changes to improve the form make the desired tile obvious.*
+*Better form design: Simple changes to improve the form make the desired tile obvious.*
+
+Of course, we could take this a step further and determine that running one checkbox/option per line would improve the form even more. We'd need bigger labels. I don't work at the tile shop, so I don't know why that sticker size was picked or if we could change it. It would be presumptuous of me to go there without talking to stakeholders.
+
+But it's now obvious that even working within our current parameters, we can improve the UI on this form, solving problems for both the tile store, the contractor, and the homeowner.
 
 
 
