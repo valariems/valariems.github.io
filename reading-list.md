@@ -3,6 +3,7 @@ layout: resume
 title: Reading List
 permalink: /reading-list/
 hero: /assets/images/reading-list.jpg
+order: 2
 ---
 
 Here's some nuggets I've found about UI, UX, design and development that I'll want to revisit and share.

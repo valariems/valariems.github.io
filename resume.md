@@ -3,6 +3,7 @@ layout: resume
 title: Resume
 permalink: /resume/
 hero: /assets/images/audience.jpg
+order: 3
 ---
 
 ##Profile
