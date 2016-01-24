@@ -39,6 +39,28 @@
   }
 }
 
+// footer
+// change three cols to two cols
+$spacing-unit:     30px; // from main.scss
+
+.footer-col-1 {
+    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+    width:         calc(35% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-2 {
+    width: -webkit-calc(65% - (#{$spacing-unit} / 2));
+    width:         calc(65% - (#{$spacing-unit} / 2));
+}
+
+ul.social-media-list li {
+  display: inline;
+  padding-right: 1em;
+  a:hover {
+    text-decoration: none;
+  }
+}
+
 // content
 .page-content {
   padding: 0;
