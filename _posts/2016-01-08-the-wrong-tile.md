@@ -9,18 +9,18 @@ I recently remodeled the bathroom in my home. It was so satisfying to see that u
 
 I visited the tile store with my contractor's interior designer to make tile selections. We picked out large rectangular tiles for both the tub surround and floor. We took photos of the tile specifications that had been created by the tile store, and sent them off to the contractor for ordering. The tub surround tile came in a myriad of shapes and sizes, so that information was important to get the order right. What better way than a photo? What could possibly go wrong?
 
-On the day the tile was to be installed, imagine our suprise when square 8" x 8" tile was waiting for pickup, when I had picked out rectangular 9" x 12" tile. How could that happen? I never wanted square tile. I never saw square tile. I never specified square tile.
+On the day the tile was to be installed, imagine our surprise when square 8" x 8" tile was waiting for pickup, when I had picked out rectangular 9" x 12" tile. How could that happen? I never wanted square tile. I never saw square tile. I never specified square tile.
 
 Or did I?
 
-![Tile order form](/assets/images/blog/content/wrong-tile-checkbox.jpg)
+![Tile order form](/assets/images/blog/content/wrong-tile-checkbox-hide-store.jpg)
 *Bad form design: What size tile would you order?*
 
 Take a quick glance at that  photo. It's the tile specifications from the tile store, on a sticker affixed to the back of a piece of tile. If you think the checked box is associated with the 8x8 choice, instead of the 9x12 choice, I wouldn't blame you. And I didn't blame the contractor for the mistake, either.
 
 It's bad form design. And bad form design creates bad results.
 
-If we examine the problems with this form within the context of [UI Gestalt priciples](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/ "Design Principles: Visual Perception And The Principles Of Gestalt"), we can discover why the wrong tile was ordered.
+If we examine the problems with this form within the context of [UI Gestalt principles](https://www.smashingmagazine.com/2014/03/design-principles-visual-perception-and-the-principles-of-gestalt/ "Design Principles: Visual Perception And The Principles Of Gestalt"), we can discover why the wrong tile was ordered.
 
 First, let's consider the principle of *proximity*. This concept says:
 
@@ -36,7 +36,7 @@ When we glance at our form, we see that the checkbox before 8x8 is checked. Our 
 
 All it takes to fix this form is moving the checkboxes in front of the options, and adding additional space between the options. With those simple changes, a user would have no doubt which tile to order.
 
-![Tile order form](/assets/images/blog/content/better-tile-checkbox.jpg)
+![Tile order form](/assets/images/blog/content/better-tile-checkbox-hide-store.jpg)
 *Better form design: Simple changes to improve the form make the desired tile obvious.*
 
 Of course, we could take this a step further and determine that running one checkbox/option per line would improve the form even more. We'd need bigger labels. I don't work at the tile shop, so I don't know why that sticker size was picked or if we could change it. It would be presumptuous of me to go there without talking to stakeholders.
