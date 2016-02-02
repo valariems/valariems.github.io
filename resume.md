@@ -6,12 +6,12 @@ hero: /assets/images/audience.jpg
 order: 3
 ---
 
-##Profile
+## Profile
 
 User experience and interface design expert who loves clean design, typographical hierarchies and logical layouts. Special interest in implementing visual design strategies to deliver delightful experiences to web application users.
 
 
-##Skills and competencies
+## Skills and competencies
 
   * Visual design for web from concept to production, emphasizing intuitive user interfaces.
   * Development of personas and use cases to build user flows and wireframes for page layouts.
@@ -25,9 +25,9 @@ User experience and interface design expert who loves clean design, typographica
   * Training in JavaScript and jQuery.
   * Management skills to oversee teams of creative and communication professionals.
 
-##Career history
+## Career history
 
-###UI Designer <br />OrgSync, Oct 2012 - present
+### UI Designer <br />OrgSync, Oct 2012 - present
 
 User interface design for university campus engagement web application with over 4,000,000 users and 400 campus clients.
 
@@ -36,7 +36,7 @@ User interface design for university campus engagement web application with over
   * Implement designs and layouts via CSS in a Rails and React.js environment.
   * Create and edit content for feature announcements and blog posts.
 
-###Web Designer/Themer <br />AllPlayers.com, Aug 2010 - Sept 2012
+### Web Designer/Themer <br />AllPlayers.com, Aug 2010 - Sept 2012
 
 Design and theming for group and league management web application with over 75,000 users and 1,000,000+ monthly page views.
 
@@ -46,7 +46,7 @@ Design and theming for group and league management web application with over 75,
   * Create and produce marketing components for website to provide membership team with   tools to promote the features and benefits of company products.
   * Develop and produce brand standards guide for growing company.
 
-###Designer/Webmaster <br />Living Yoga Dallas, Jan 2002 - Sept 2010
+### Designer/Webmaster <br />Living Yoga Dallas, Jan 2002 - Sept 2010
 
 Develop, design, produce and maintain website and marketing collateral for yoga-related small business.
 
@@ -55,7 +55,7 @@ Develop, design, produce and maintain website and marketing collateral for yoga-
   * Create marketing collateral promoting workshops and events, resulting in frequently sold-out events.
   * Create bi-weekly email newsletters to promote company and community, and drive traffic to community website.
 
-###Senior Graphic Designer <br />Lawyers Escrow & Trust, Feb 2005 - Jan 2010
+### Senior Graphic Designer <br />Lawyers Escrow & Trust, Feb 2005 - Jan 2010
 
 In-house designer creating marketing communications for company focusing on escrow and closings for small business transactions.
 
@@ -63,14 +63,14 @@ In-house designer creating marketing communications for company focusing on escr
   * Developed branding and implemented throughout all marketing channels.
   * Produced print collateral and trade show materials, taking project roles including concept, design, copywriting and production.
 
-###Freelance Graphic Designer <br />Various Clients, Jun 1994 - Feb 2005
+### Freelance Graphic Designer <br />Various Clients, Jun 1994 - Feb 2005
 
 Freelance print and web design and production for many of Dallas’ top ad agencies, design studios, corporations, and small businesses.
 
   * Clients included Temerlin McClain, TracyLocke, Rapp Collins Worldwide, Eisenberg & Associates, J.C. Penney, Mary Kay, Exhibit Group\|Giltspur, Blue Cross & Blue Shield of Texas, Big Feats Entertainment/Lyric Studios and more.
   * Account experience included Dallas Galleria, DFW Airport, La Madeleine, Nokia, Nortel, Pepsi, Pizza Hut, 7-Eleven, Stanley Korshak, Subaru, Zales and more.
 
-###Associate Professor <br />Collin County Community College, Sep 1999 - Aug 2003
+### Associate Professor <br />Collin County Community College, Sep 1999 - Aug 2003
 
 Instructor for college courses in the Applied Graphic Design Technology department.
 
@@ -78,7 +78,7 @@ Instructor for college courses in the Applied Graphic Design Technology departme
   * Digital Imaging I, focusing on introductory Photoshop skills.
   * Digital Publishing II, focusing on all aspects of professional graphic design, including workflows, production techniques, design for campaigns, font technology and design, scanning and resolution, studios skills, printing technologies, business practices, contracts, copyrights, and project production.
 
-##Professional conferences and training
+## Professional conferences and training
 
   * OrgSync Connect (presenter) — 2013, 2014, 2015, Dallas, TX
   * Front Porch — 2013, Dallas, TX
@@ -89,11 +89,11 @@ Instructor for college courses in the Applied Graphic Design Technology departme
   * Do It With Drupal — 2009, New Orleans, LA
   * DrupalCamp Austin — 2009, Austin, TX
 
-##Portfolio
+## Portfolio
 
 Available upon request.
 
-##Contact
+## Contact
 
 Valarie Martin Stuart<br />
 Dallas, Texas USA<br />
