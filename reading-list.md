@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: reading-list
 title: Reading List
 permalink: /reading-list/
 hero: /assets/images/reading-list.jpg
