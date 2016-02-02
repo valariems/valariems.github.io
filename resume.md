@@ -2,7 +2,7 @@
 layout: resume
 title: Resume
 permalink: /resume/
-hero: /assets/images/audience.jpg
+hero: /assets/images/portfolio-girl.jpg
 order: 3
 ---
 
