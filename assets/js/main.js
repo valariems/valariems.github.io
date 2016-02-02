@@ -1,20 +1,10 @@
 // Sticky navigation bar
 $(".site-header").sticky();
 
-// Dribble feed
-$.jribbble.setToken('c24361ba1af974fe329c25089e3b0f30d7b21b3f4d4586b8c0e74aafdbb20429');
-
-$.jribbble.users('valariems').shots({per_page: 50}).then(function(shots) {
-  var html = [];
-
-  shots.forEach(function(shot) {
-    html.push('<li class="shots--shot">');
-    html.push('<a href="' + shot.html_url + '" target="_blank">');
-    html.push('<img src="' + shot.images.normal + '">');
-    html.push('</a></li>');
-  });
-
-  $('.shots').html(html.join(''));
+// pretty load portfolio images
+$(function() {
+    $('#portfolio img').each(function(i) {
+    $(this).delay((i++) * 500).fadeTo(1000, 1); })
 });
 
 // parallax
