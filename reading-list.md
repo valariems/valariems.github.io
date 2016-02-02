@@ -6,7 +6,7 @@ hero: /assets/images/reading-list.jpg
 order: 2
 ---
 
-Interesting and educational articles I've run across about UI, UX, design and development that I want to share a revisit.
+Interesting and educational articles I've run across about UI, UX, design and development that I want to share and revisit.
 <br>
 <br>
 
