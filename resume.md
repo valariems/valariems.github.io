@@ -2,11 +2,8 @@
 layout: resume
 title: Resume
 permalink: /resume/
-hero: /assets/images/portfolio-girl.jpg
 order: 3
 ---
-
-## Profile
 
 User experience and interface design expert who loves clean design, typographical hierarchies and logical layouts. Special interest in implementing visual design strategies to deliver delightful experiences to web application users.
 
