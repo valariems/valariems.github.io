@@ -3,12 +3,10 @@ layout: reading-list
 title: Reading List
 permalink: /reading-list/
 hero: /assets/images/reading-list.jpg
-order: 2
+order: 3
 ---
 
 Interesting and educational articles I've run across about UI, UX, design and development that I want to share and revisit.
-<br>
-<br>
 
 ## UI/UX
 

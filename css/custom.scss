@@ -267,7 +267,7 @@ h2.blog-intro {
     padding: 2em 0 0;
     text-transform: uppercase;
     &:first-of-type {
-      padding-top: 0;
+      padding-top: 2em;
     }
   }
   h3 {
@@ -278,6 +278,9 @@ h2.blog-intro {
   }
   p {
     margin-bottom: 5px;
+    &:first-of-type {
+      margin: 2em 0 0 0;
+    }
   }
 }
 
