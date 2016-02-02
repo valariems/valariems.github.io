@@ -1,12 +1,6 @@
 // Sticky navigation bar
 $(".site-header").sticky();
 
-// pretty load portfolio images
-$(function() {
-    $('#portfolio img').each(function(i) {
-    $(this).delay((i++) * 500).fadeTo(1000, 1); })
-});
-
 // parallax
 /* detect touch */
 if("ontouchstart" in window){
