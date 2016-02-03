@@ -26,6 +26,13 @@ Interesting and educational articles I've run across about UI, UX, design and de
 ##### By Paul Adams, [Intercom](https://www.intercom.io/ "Intercom")
 
 
+### [The State of UX in 2016](https://medium.com/user-experience-design-1/the-state-of-ux-in-2016-4a87799647d8#.ern6crcpf "The State of UX in 2016")
+
+"People want to do one thing at a time, and they want to be guided through the flow as opposed to being prompted with multiple decision points at every step."
+
+##### By Fabricio Teixeira, [uxdesign.cc](http://uxdesign.cc/)
+
+
 ### [UI Pattern: Natural Language Form](http://www.jroehm.com/2014/01/ui-pattern-natural-language-form/ "UI Pattern: Natural Language Form")
 
 "It’s easy to see how a sentence, written in natural language, is more engaging than a traditional form. For one because it’s a novel concept and this fact alone sparks interest. More importantly however, a natural language form reflects the mental model of a user better than a traditional form."
