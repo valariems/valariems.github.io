@@ -441,7 +441,8 @@ h2.blog-intro {
   .description {
     font-size: .9em;
     font-weight: 300;
-    margin-bottom: .5em;
+    margin-top: 0 !important;
+    margin-bottom: 1em !important;
   }
   .grid-container {
     overflow: hidden;
