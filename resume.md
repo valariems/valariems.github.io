@@ -5,22 +5,19 @@ permalink: /resume/
 order: 1
 ---
 
-User experience and interface design expert who loves clean design, typographical hierarchies and logical layouts. Special interest in implementing visual design strategies to deliver delightful experiences to web application users.
-
+User experience and interface design expert with over 15 years experience in design, research, prototyping and implementation. I love clean design, typographical hierarchies and logical user flows. I’m passionate about defining problems and developing effective solutions that result in happy users.
 
 ## Skills and competencies
 
-  * Visual design for web from concept to production, emphasizing intuitive user interfaces.
-  * Development of personas and use cases to build user flows and wireframes for page layouts.
+  * Creation of wireframes and prototypes for user testing and development.
+  * Development of personas and user stories to build user application flows.
   * Use of effective typography as graphical and hierarchal elements in page layout.
-  * Implementation of mobile-first responsive design techniques via CSS media queries.
+  * Implementation of mobile-first responsive design techniques.
   * Strong CSS and HTML hand coding skills.
-  * Adobe Creative Suite skills, with two decades experience in Illustrator and Photoshop.
+  * Familiarity with GIT, Rails, Drupal, JavaScript, and jQuery.
+  * Adobe Creative Suite skills, with expert level in Illustrator and Photoshop.
   * Copywriting, copy editing and proofreading skills.
-  * Familiarity with GIT version control.
-  * Experience working within Rails and Drupal web applications.
-  * Training in JavaScript and jQuery.
-  * Management skills to oversee teams of creative and communication professionals.
+  * Management experience to oversee teams of creative and communication professionals.
 
 ## Career history
 
@@ -37,11 +34,11 @@ User interface design for university campus engagement web application with over
 
 Design and theming for group and league management web application with over 75,000 users and 1,000,000+ monthly page views.
 
-  * Design and theme group and league management web application built on Drupal in an  agile development environment.
-  * Create, edit and proofread content for print, email and website content.
-  * Implement print production management system to improve workflows to support marketing  email, print and trade show needs.
-  * Create and produce marketing components for website to provide membership team with   tools to promote the features and benefits of company products.
-  * Develop and produce brand standards guide for growing company.
+  * Manage print and web design team.
+  * Analyze needs and reconcile with data to develop wireframes, comps and layouts to improve user interface of web application and marketing pages.
+  * Write CSS and HTML to design pages and sections within Drupal CMS.
+  * Write, edit and proofread print, email and website content.
+  * Develop and produce brand standards guide.
 
 ### Designer/Webmaster <br />Living Yoga Dallas, Jan 2002 - Sept 2010
 
