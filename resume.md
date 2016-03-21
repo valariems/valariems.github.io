@@ -83,6 +83,10 @@ Instructor for college courses in the Applied Graphic Design Technology departme
   * Do It With Drupal — 2009, New Orleans, LA
   * DrupalCamp Austin — 2009, Austin, TX
 
+## Continuing education
+
+Coursera Interaction Design Specialization, University of California, San Diego, beginning Feb 2016. Anticipated completion: Jun 2016.
+
 ## Portfolio
 
 Available upon request.
