@@ -9,28 +9,29 @@ User experience and interface design expert with over 15 years experience in des
 
 ## Skills and competencies
 
-  * Creation of wireframes and prototypes for user testing and development.
-  * Development of personas and user stories to build user application flows.
-  * Use of effective typography as graphical and hierarchal elements in page layout.
-  * Implementation of mobile-first responsive design techniques.
-  * Strong CSS and HTML hand coding skills.
-  * Familiarity with GIT, Rails, Drupal, JavaScript, and jQuery.
-  * Adobe Creative Suite skills, with expert level in Illustrator and Photoshop.
-  * Copywriting, copy editing and proofreading skills.
-  * Management experience to oversee teams of creative and communication professionals.
+  * Developing personas and user stories to build user application flows.
+  * Creating wireframes and clickable prototypes for user testing and development.
+  * Undertaking heuristic evaluations to improve product usability.
+  * Designing effective typography as graphical and hierarchal elements in page layouts.
+  * Implementing mobile-first responsive design techniques.
+  * Writing CSS and HTML from scratch.
+  * Familiar with GIT, Rails, Drupal, JavaScript, and jQuery.
+  * Expert in Illustrator and Photoshop, and comfortable in Sketch, Invision, and other UX/UI tools.
+  * Able to write, edit, and proofread content.
+  * Experienced managing teams of creative and communication professionals.
 
 ## Career history
 
-### UI Designer <br />OrgSync, Oct 2012 - present
+### UX/UI Designer <br />OrgSync, Oct 2012 - present
 
-User interface design for university campus engagement web application with over 4,000,000 users and 400 campus clients.
+User interface design for university campus engagement web application with over 5,000,000 users and 450 campus partners.
 
   * Design effective page layouts to allow users and campus administrators to create events, forms, rosters, to-do lists, and over 25 other core features of the software.
   * Gather user requirements and build user flow wireframes for new features.
   * Implement designs and layouts via CSS in a Rails and React.js environment.
   * Create and edit content for feature announcements and blog posts.
 
-### Web Designer/Themer <br />AllPlayers.com, Aug 2010 - Sept 2012
+### UI Designer <br />AllPlayers.com, Aug 2010 - Sept 2012
 
 Design and theming for group and league management web application with over 75,000 users and 1,000,000+ monthly page views.
 
