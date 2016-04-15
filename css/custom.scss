@@ -350,6 +350,12 @@ h1.case-study {
   margin-top: .5em;
   text-align: center;
   text-transform: uppercase;
+  &.event-req {
+    color: #d55782;
+  }
+  &.marketing {
+    color: #a062ba;
+  }
 }
 
 h2.case-study {
@@ -368,6 +374,12 @@ h3.case-study {
   padding-bottom: .5em;
   text-align: center;
   text-transform: lowercase;
+  &.event-req {
+    color: #CB2D63;
+  }
+  &.marketing {
+    color: #8e44ad;
+  }
   i {
     font-size: .5em;
     padding: 0 1em;
@@ -396,12 +408,20 @@ h4.small-subhead {
 .three-col {
   display: flex;
   justify-content: space-between;
-
   .col {
-    padding-right: 1em;
+    width: 31%;
     p {
       font-size: .85em;
       font-weight: 300;
+    }
+  }
+  .col-two {
+    width: 40%;
+    &:nth-of-type(1) {
+      margin-left: 3em;
+    }
+    &:nth-of-type(2) {
+      margin-right: 3em;
     }
   }
 }
@@ -475,6 +495,25 @@ h4.small-subhead {
   }
 }
 
+.marketing-blur-bkg {
+  background-color: #efefef;
+  background-image: url("/assets/images/portfolio/allplayers-blur.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: 20% 30%;
+  margin: 3em 0;
+  img {
+    margin-top: 3em;
+  }
+  p {
+    padding: 3em 3em 2em 3em;
+    font-size: 1.2em;
+    font-weight: 400;
+    text-align: center;
+    text-shadow: 0 1px #fff;
+  }
+}
+
 .goal {
   background-color: #5F6B77;
   color: #fff;
@@ -501,9 +540,9 @@ h4.small-subhead {
     margin: 0 4em 0 1em;
   }
   .number {
-    background: #C9D255;
+    background: #CB2D63;
     box-shadow: 2px 2px 10px #444;
-    color: #5F6B77;
+    color: #fff;
     border-radius: 100%;
     font-family: 'Roboto Slab', sans-serif;
     font-size: 2em;
@@ -536,16 +575,30 @@ h4.small-subhead {
   width: 24%;
   i { padding-bottom: 10px;}
   &.umbrella {
-    background-color: #EF9200;
+    background-color: #A4BE76;
   }
   &.reviewer {
-    background-color: #E34544;
+    background-color: #EF9200;
   }
   &.advisor {
     background-color: #AC56A3;
   }
   &.student {
     background-color: #5BB3D2;
+  }
+}
+
+.wants {
+  box-sizing: border-box;
+  &.left {
+    float: left;
+    margin-left: -100px;
+    width: 400px;
+  }
+  &.right {
+    p {
+      padding: 3em 0 0 1em;
+    }
   }
 }
 
