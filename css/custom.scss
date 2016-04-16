@@ -526,6 +526,22 @@ h4.small-subhead {
   }
 }
 
+#event-req-wire-four {
+  @include event-req-img;
+  background-image: url('/assets/images/portfolio/event-req-julia-4.png');
+  &:hover {
+    background-image: url('/assets/images/portfolio/event-req-julia-4a.png');
+  }
+}
+
+#event-req-wire-five {
+  @include event-req-img;
+  background-image: url('/assets/images/portfolio/event-req-brad-5.png');
+  &:hover {
+    background-image: url('/assets/images/portfolio/event-req-brad-5a.png');
+  }
+}
+
 .case-study-centered {
   margin: 0 auto 2em auto;
   text-align: center;
