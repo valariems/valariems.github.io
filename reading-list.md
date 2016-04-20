@@ -33,13 +33,6 @@ Interesting and educational articles I've run across about UI, UX, design and de
 ##### By Fabricio Teixeira, [uxdesign.cc](http://uxdesign.cc/)
 
 
-### [UI Pattern: Natural Language Form](http://www.jroehm.com/2014/01/ui-pattern-natural-language-form/ "UI Pattern: Natural Language Form")
-
-"It’s easy to see how a sentence, written in natural language, is more engaging than a traditional form. For one because it’s a novel concept and this fact alone sparks interest. More importantly however, a natural language form reflects the mental model of a user better than a traditional form."
-
-##### By Jurgen Rohm, [Jurgen Rohm](http://www.jroehm.com/ "Jurgen Rohm")
-
-
 
 ## Design
 
@@ -55,6 +48,24 @@ Interesting and educational articles I've run across about UI, UX, design and de
 "To really ensure feedback is kept helpful —truly in the form of critique and not criticism — Reeves gives us an outline for developing a clear distinction between the two: Criticism passes judgement — Critique poses questions..."
 
 ##### By Tanner Christensen, [Facebook Design](https://medium.com/facebook-design "Facebook Design")
+
+
+
+## Form Design
+
+### [Web form design guidelines: an eyetracking study](https://www.cxpartners.co.uk/our-thinking/web_forms_design_guidelines_an_eyetracking_study/ "Web form design guidelines: an eyetracking study")
+
+"Users do not like to be visually distracted when filling in forms. They often want to get it done as quickly as possible. Therefore it is vital to design a clear and tidy form. Users do not mind filling in a rather long form with easy to understand and neat design than a short, visually cluttered and complicated form."
+
+##### By Chui Chui Tan, [cxpartners](https://www.cxpartners.co.uk "cxpartners")
+
+
+### [UI Pattern: Natural Language Form](http://www.jroehm.com/2014/01/ui-pattern-natural-language-form/ "UI Pattern: Natural Language Form")
+
+"It’s easy to see how a sentence, written in natural language, is more engaging than a traditional form. For one because it’s a novel concept and this fact alone sparks interest. More importantly however, a natural language form reflects the mental model of a user better than a traditional form."
+
+##### By Jurgen Rohm, [Jurgen Rohm](http://www.jroehm.com/ "Jurgen Rohm")
+
 
 
 
