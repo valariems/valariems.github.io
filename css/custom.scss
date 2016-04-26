@@ -398,6 +398,9 @@ h1.case-study {
   &.marketing {
     color: #a062ba;
   }
+  &.reg-wiz {
+    color: $coral;
+  }
 }
 
 h2.case-study {
@@ -421,6 +424,9 @@ h3.case-study {
   }
   &.marketing {
     color: #8e44ad;
+  }
+  &.reg-wiz {
+    color: $coral;
   }
   i {
     font-size: .5em;
