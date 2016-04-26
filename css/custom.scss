@@ -401,6 +401,9 @@ h1.case-study {
   &.reg-wiz {
     color: $coral;
   }
+  &.float {
+    color: $violet;
+  }
 }
 
 h2.case-study {
@@ -427,6 +430,9 @@ h3.case-study {
   }
   &.reg-wiz {
     color: $coral;
+  }
+  &.float {
+    color: $violet;
   }
   i {
     font-size: .5em;
@@ -594,6 +600,21 @@ h4.small-subhead {
 .reg-wizard-blur-bkg {
   @include case-study-blur;
   background-image: url("/assets/images/portfolio/apci-reg-wizard-blur.jpg");
+  img {
+    margin-top: 3em;
+  }
+  p {
+    padding: 3em 3em 2em 3em;
+    font-size: 1.2em;
+    font-weight: 400;
+    text-align: center;
+    text-shadow: 0 1px #fff;
+  }
+}
+
+.ifd-blur-bkg {
+  @include case-study-blur;
+  background-image: url("/assets/images/portfolio/ifd-blur-bkg.jpg");
   img {
     margin-top: 3em;
   }
