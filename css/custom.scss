@@ -22,6 +22,14 @@
   height: 400px;
 }
 
+@mixin case-study-blur {
+  background-color: #efefef;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 3em 0;
+}
+
 $green: #A4BE76;
 $orange: #EF9200;
 $purple: #AC56A3;
@@ -390,6 +398,9 @@ h1.case-study {
   &.marketing {
     color: #a062ba;
   }
+  &.reg-wiz {
+    color: $coral;
+  }
 }
 
 h2.case-study {
@@ -413,6 +424,9 @@ h3.case-study {
   }
   &.marketing {
     color: #8e44ad;
+  }
+  &.reg-wiz {
+    color: $coral;
   }
   i {
     font-size: .5em;
@@ -552,12 +566,8 @@ h4.small-subhead {
 }
 
 .event-req-blur-bkg {
-  background-color: #efefef;
+  @include case-study-blur;
   background-image: url("/assets/images/portfolio/event-req-blur-bkg.jpg");
-  background-size: 100%;
-  background-repeat: no-repeat;
-  background-position: center;
-  margin: 3em 0;
   p {
     padding: 3em 3em 2em 3em;
     font-size: 1.2em;
@@ -568,12 +578,8 @@ h4.small-subhead {
 }
 
 .browse-orgs-blur-bkg {
-  background-color: #efefef;
+  @include case-study-blur;
   background-image: url("/assets/images/portfolio/browse-orgs-blur.jpg");
-  background-size: 100%;
-  background-repeat: no-repeat;
-  background-position: center;
-  margin: 3em 0;
   img {
     margin-top: 3em;
   }
@@ -581,6 +587,21 @@ h4.small-subhead {
     padding: 4em 0 2em 0;
     font-size: 1.2em;
     font-weight: 400;
+    text-shadow: 0 1px #fff;
+  }
+}
+
+.reg-wizard-blur-bkg {
+  @include case-study-blur;
+  background-image: url("/assets/images/portfolio/apci-reg-wizard-blur.jpg");
+  img {
+    margin-top: 3em;
+  }
+  p {
+    padding: 3em 3em 2em 3em;
+    font-size: 1.2em;
+    font-weight: 400;
+    text-align: center;
     text-shadow: 0 1px #fff;
   }
 }
