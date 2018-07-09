@@ -25,13 +25,19 @@ User experience and interface design expert with over 15 years experience in des
 
 ## Career history
 
-### UX/UI Designer <br />OrgSync, Oct 2012 - present
+### Lead UX Designer <br />Trintech,  June 2016 - present
+Lead UX designer for financial services sofware company, joining established company as first UX designer to build and grow team and practice.
+
+  *
+
+### UX/UI Designer <br />OrgSync, Oct 2012 - May 2016
 
 User interface design for university campus engagement web application with over 5,000,000 users and 450 campus partners.
 
   * Design effective page layouts to allow users and campus administrators to create events, forms, rosters, to-do lists, and over 25 other core features of the software.
-  * Gather user requirements and build user flow wireframes for new features.
-  * Implement designs and layouts via CSS in a Rails and React.js environment.
+  * Work directly with talented developers to implement designs and layouts via CSS in a Rails and React.js environment.
+  * Meet with customers to gather user requirements and present designs to gather feedback.
+  * Present to customers at conferences to share best practices on design that customers could implement to integrate their branding and enhance engagement.
   * Create and edit content for feature announcements and blog posts.
 
 ### UI Designer <br />AllPlayers.com, Aug 2010 - Sept 2012
