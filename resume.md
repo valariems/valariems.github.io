@@ -9,26 +9,35 @@ User experience and interface design expert with over 15 years experience in des
 
 ## Skills and competencies
 
-  * Developing personas and user stories to build user application flows.
-  * Creating wireframes and clickable prototypes for user testing and development.
   * Undertaking heuristic evaluations to improve product usability.
+  * Creating wireframes and clickable prototypes for user testing and development.
+  * Conducting, preparing for, and reporting on user research, including usability testing, focus groups, and surveys.
+  * Developing personas and user stories to build user application flows.
   * Designing effective typography as graphical and hierarchal elements in page layouts.
+  * Creating design systems, including style guides, pattern libraries, voice and content guidelines.
   * Implementing mobile-first responsive design techniques.
+  * Dedicated to accessibility best practices.
   * Writing CSS and HTML from scratch.
-  * Familiar with GIT, Rails, Drupal, JavaScript, and jQuery.
-  * Expert in Illustrator and Photoshop, and comfortable in Sketch, Invision, and other UX/UI tools.
+  * Familiar with GIT, Rails, Angular, Drupal, JavaScript, and jQuery.
+  * Expert in Illustrator and Photoshop, and happy working in Axure, Sketch, Invision, and other UX/UI tools.
   * Able to write, edit, and proofread content.
   * Experienced managing teams of creative and communication professionals.
 
 ## Career history
 
-### UX/UI Designer <br />OrgSync, Oct 2012 - present
+### Lead UX Designer <br />Trintech,  June 2016 - present
+Lead UX designer for financial services sofware company, joining established company as first UX designer to build and grow team and practice.
+
+  *
+
+### UX/UI Designer <br />OrgSync, Oct 2012 - May 2016
 
 User interface design for university campus engagement web application with over 5,000,000 users and 450 campus partners.
 
   * Design effective page layouts to allow users and campus administrators to create events, forms, rosters, to-do lists, and over 25 other core features of the software.
-  * Gather user requirements and build user flow wireframes for new features.
-  * Implement designs and layouts via CSS in a Rails and React.js environment.
+  * Work directly with talented developers to implement designs and layouts via CSS in a Rails and React.js environment.
+  * Meet with customers to gather user requirements and present designs to gather feedback.
+  * Present to customers at conferences to share best practices on design that customers could implement to integrate their branding and enhance engagement.
   * Create and edit content for feature announcements and blog posts.
 
 ### UI Designer <br />AllPlayers.com, Aug 2010 - Sept 2012
