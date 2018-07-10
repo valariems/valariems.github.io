@@ -379,13 +379,6 @@ h2.blog-intro {
   }
 }
 
-// portfolio
-.portfolio-intro {
-  color: #797979;
-  font-size: 1em;
-  margin-top: 2em;
-  margin-bottom: 2em;
-}
 
 ///////////////////////////////
 // case studies
@@ -881,7 +874,7 @@ h4.small-subhead {
 ///////////////////////////////
 
 .portfolio-main {
-  margin: 3em auto;
+  margin: 0 auto;
   .wrapper {
     margin-bottom: 1.5em;
   }
@@ -891,6 +884,13 @@ h4.small-subhead {
   img {
     border: 1px solid #ccc;
   }
+}
+
+.portfolio-intro {
+  color: #797979;
+  font-size: 1em;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 
 
