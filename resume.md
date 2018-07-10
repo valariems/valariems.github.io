@@ -5,7 +5,7 @@ permalink: /resume/
 order: 1
 ---
 
-User experience and interface design expert with over 15 years experience in design, research, prototyping and implementation. I love clean design, typographical hierarchies and logical user flows. I’m passionate about defining problems and developing effective solutions that result in happy users.
+User experience and interface design expert with over 20 years experience in design, research, prototyping and implementation. I love clean design, typographical hierarchies and logical user flows. I’m passionate about defining problems and developing effective solutions that result in happy users.
 
 ## Skills and competencies
 
@@ -27,11 +27,11 @@ User experience and interface design expert with over 15 years experience in des
 ## Career history
 
 ### Lead UX Designer <br />Trintech,  June 2016 - present
-Joined established financial services sofware company as first UX designer to build and grow team and UX practice.
+First UX designer to join established financial services software company, tasked with establishing product UX team and practice.
 
   * Lead effort to convert legacy UX/UI with low SUS scores to modern and attractive user interface proven to increase user efficiency and eliminate user frustration.
   * Create design system, including pattern library, content guidelines, and accessibility recommendations, to lead new era of user interface for products.
-  * Build UX team from one individual contributer to team of three UX designers.
+  * Build UX team from one individual contributor to team of three UX designers.
   * Establish user research program and user pool sufficient to fill usability sessions within hours of invitation.
   * Conduct research activities including focus groups, user testing, and surveys, and report results, including evidence-backed recommendations.
 
@@ -103,8 +103,8 @@ Instructor for college courses in the Applied Graphic Design Technology departme
 ## Continuing education/certifications
 
   * Coursera Interaction Design Specialization, University of California, San Diego, 2016
-  * SAFe® 4 Certified Product Owner/Product Manager (2017)
-  * SAFe® 4 Practitioner (2017)
+  * SAFe® 4 Certified Product Owner/Product Manager, 2017
+  * SAFe® 4 Practitioner, 2017
 
 ## Portfolio
 
