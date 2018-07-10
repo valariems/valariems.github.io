@@ -89,6 +89,7 @@ Instructor for college courses in the Applied Graphic Design Technology departme
 
 ## Professional conferences and training
 
+  * Vista UX – 2017, 2018 (panelist)
   * OrgSync Connect (presenter) — 2013, 2014, 2015, Dallas, TX
   * Front Porch — 2013, Dallas, TX
   * DrupalCon Denver — 2012, Denver, CO
@@ -98,9 +99,11 @@ Instructor for college courses in the Applied Graphic Design Technology departme
   * Do It With Drupal — 2009, New Orleans, LA
   * DrupalCamp Austin — 2009, Austin, TX
 
-## Continuing education
+## Continuing education/certifications
 
-Coursera Interaction Design Specialization, University of California, San Diego, beginning Feb 2016. Anticipated completion: Jun 2016.
+  * Coursera Interaction Design Specialization, University of California, San Diego, 2016
+  * SAFe® 4 Certified Product Owner/Product Manager (2017)
+  * SAFe® 4 Practitioner (2017)
 
 ## Portfolio
 
@@ -111,4 +114,4 @@ Available upon request.
 Valarie Martin Stuart<br />
 Dallas, Texas USA<br />
 valariestuart@gmail.com<br />
-972-762-4360
+469-660-5793
