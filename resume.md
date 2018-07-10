@@ -28,7 +28,12 @@ User experience and interface design expert with over 15 years experience in des
 ### Lead UX Designer <br />Trintech,  June 2016 - present
 Lead UX designer for financial services sofware company, joining established company as first UX designer to build and grow team and practice.
 
-  *
+  * Lead effort to convert legacy UX/UI with low SUS scores to modern and attractive user interface proven to increase user efficiency and eliminate user frustration.
+  * Create design system, including pattern library, content guidelines, and accessibility recommendations, to lead new era of user interface for products.
+  * Build UX team from one individual contributer to team of three UX designers.
+  * Establish user research program and user pool sufficient to fill usability sessions within hours of invitation.
+  * Conduct research activities including focus groups, user testing, and surveys, and report results, including evidence-backed recommendations.
+
 
 ### UX/UI Designer <br />OrgSync, Oct 2012 - May 2016
 
