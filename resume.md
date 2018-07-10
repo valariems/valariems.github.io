@@ -9,16 +9,17 @@ User experience and interface design expert with over 15 years experience in des
 
 ## Skills and competencies
 
-  * Undertaking heuristic evaluations to improve product usability.
   * Creating wireframes and clickable prototypes for user testing and development.
+  * Undertaking heuristic evaluations to improve product usability.
   * Conducting, preparing for, and reporting on user research, including usability testing, focus groups, and surveys.
   * Developing personas and user stories to build user application flows.
-  * Designing effective typography as graphical and hierarchal elements in page layouts.
-  * Creating design systems, including style guides, pattern libraries, voice and content guidelines.
+  * Constructing design systems, including style guides, pattern libraries, and voice and content guidelines.
+  * Using effective typography as graphical and hierarchal elements in page layouts.
   * Implementing mobile-first responsive design techniques.
-  * Dedicated to accessibility best practices.
   * Writing CSS and HTML from scratch.
+  * Dedicated to accessibility best practices.
   * Familiar with GIT, Rails, Angular, Drupal, JavaScript, and jQuery.
+  * Comfortable working within Agile and Kanban processes.
   * Expert in Illustrator and Photoshop, and happy working in Axure, Sketch, Invision, and other UX/UI tools.
   * Able to write, edit, and proofread content.
   * Experienced managing teams of creative and communication professionals.
@@ -26,7 +27,7 @@ User experience and interface design expert with over 15 years experience in des
 ## Career history
 
 ### Lead UX Designer <br />Trintech,  June 2016 - present
-Lead UX designer for financial services sofware company, joining established company as first UX designer to build and grow team and practice.
+Joined established financial services sofware company as first UX designer to build and grow team and UX practice.
 
   * Lead effort to convert legacy UX/UI with low SUS scores to modern and attractive user interface proven to increase user efficiency and eliminate user frustration.
   * Create design system, including pattern library, content guidelines, and accessibility recommendations, to lead new era of user interface for products.
@@ -89,7 +90,7 @@ Instructor for college courses in the Applied Graphic Design Technology departme
 
 ## Professional conferences and training
 
-  * Vista UX – 2017, 2018 (panelist)
+  * Vista UX Summit – 2017, 2018 (panelist), Dallas, TX
   * OrgSync Connect (presenter) — 2013, 2014, 2015, Dallas, TX
   * Front Porch — 2013, Dallas, TX
   * DrupalCon Denver — 2012, Denver, CO
