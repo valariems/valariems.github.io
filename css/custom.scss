@@ -601,6 +601,20 @@ h4.small-subhead {
   }
 }
 
+.sus-blur-bkg {
+  @include case-study-blur;
+  background-image: url("/assets/images/portfolio/sus-blur.png");
+  img {
+    margin-top: 3em;
+  }
+  p {
+    padding: 4em 0 2em 0;
+    font-size: 1.2em;
+    font-weight: 400;
+    text-shadow: 0 1px #fff;
+  }
+}
+
 .reg-wizard-blur-bkg {
   @include case-study-blur;
   background-image: url("/assets/images/portfolio/apci-reg-wizard-blur.jpg");
