@@ -30,6 +30,7 @@ User experience and interface design expert with over 20 years experience in des
 First UX designer to join established financial services software company, tasked with establishing product UX team and practice.
 
   * Lead effort to convert legacy UX/UI with low SUS scores to modern and attractive user interface proven to increase user efficiency and eliminate user frustration.
+  * Create wireframes, prototypes, and other design artifacts to update legacy user interface to modern design.
   * Create design system, including pattern library, content guidelines, and accessibility recommendations, to lead new era of user interface for products.
   * Build UX team from one individual contributor to team of three UX designers.
   * Establish user research program and user pool sufficient to fill usability sessions within hours of invitation.
