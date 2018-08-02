@@ -513,6 +513,9 @@ h4.small-subhead {
   border: 1px solid #ccc;
   box-shadow: 0px 3px 10px #999;
   margin-bottom: 4em;
+  &.less-mb {
+    margin-bottom: 2em;
+  }
 }
 
 .wireframes {
@@ -967,15 +970,18 @@ h4.small-subhead {
 
 .big-num.sus-bad {
   font-size: 4em;
-  color: #cc424e;
+  font-weight: bold;
+  line-height: 1;
   text-align: center;
+  &.sus-bad {
+      color: #cc424e;
+  }
+  &.sus-good {
+    color: #159b23;
+  }
 }
 
-.big-num.sus-good {
-  font-size: 4em;
-  color: #159b23;
-  text-align: center;
-}
+
 
 
 // fade in portfolio images
