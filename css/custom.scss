@@ -965,6 +965,18 @@ h4.small-subhead {
   height: 100%;
 }
 
+.big-num.sus-bad {
+  font-size: 4em;
+  color: #cc424e;
+  text-align: center;
+}
+
+.big-num.sus-good {
+  font-size: 4em;
+  color: #159b23;
+  text-align: center;
+}
+
 
 // fade in portfolio images
 // from https://fabriceleven.com/design/creating-fancy-css3-fade-in-animations-on-page-load/
