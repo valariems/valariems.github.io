@@ -98,9 +98,9 @@ Instructor for college courses in the Applied Graphic Design Technology departme
 
 ## Professional conferences and training
 
-  * Artifact Conference – 2019, Austin, TX
-  * Edward Tufte, Presenting Data & Information – 2019, Boston, MA
-  * Vista UX Summit – 2017, 2018 (PANELIST), Dallas, TX
+  * Artifact Conference — 2019, Austin, TX
+  * Edward Tufte, Presenting Data & Information — 2019, Boston, MA
+  * Vista UX Summit — 2017, 2018 (PANELIST), Dallas, TX
   * OrgSync Connect (PRESENTER) — 2013, 2014, 2015, Dallas, TX
   * Front Porch — 2013, Dallas, TX
   * DrupalCon Denver — 2012, Denver, CO
