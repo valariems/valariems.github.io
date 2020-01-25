@@ -26,7 +26,14 @@ User experience and interface design expert with over 20 years experience in des
 
 ## Career history
 
-### Lead UX Designer <br />Trintech,  June 2016 - present
+### Senior UX Designer <br />Ad Hoc,  October 2019 - present
+Senior UX Designer responsible for internal infrastructure design projects at growing company specializing in providing excellent digital services to government customers and products like healthcare.gov and va.gov.
+
+  * One
+  * Two
+  * Three
+
+### Lead UX Designer <br />Trintech,  June 2016 - October 2019
 First UX designer to join established financial services software company, tasked with establishing product UX team and practice.
 
   * Lead effort to convert legacy UX/UI with low SUS scores to modern and attractive user interface proven to increase user efficiency and eliminate user frustration.
