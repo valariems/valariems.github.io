@@ -27,11 +27,11 @@ User experience and interface design expert with over 20 years experience in des
 ## Career history
 
 ### Senior UX Designer <br />Ad Hoc,  October 2019 - present
-Senior UX Designer responsible for internal infrastructure design projects at growing company specializing in providing excellent digital services to government customers and products like healthcare.gov and va.gov.
+UX Designer responsible for internal infrastructure design projects at growing company specializing in providing excellent digital services to government customers and products like healthcare.gov and va.gov.
 
-  * One
-  * Two
-  * Three
+  * Support proposal operations with well-designed graphics, documents, and videos on quick-turn multi-million dollar contract bids, with a win rate of over 50%.
+  * Design and maintain microsites for company products and projects like playbooks, candidate hiring portals, and employee intranet properties.
+  * Create and implement processes to meet marketing communications needs, and follow through with implementation of promotional materials from concept to print.
 
 ### Lead UX Designer <br />Trintech,  June 2016 - October 2019
 First UX designer to join established financial services software company, tasked with establishing product UX team and practice.
@@ -41,7 +41,7 @@ First UX designer to join established financial services software company, taske
   * Create design system, including pattern library, content guidelines, and accessibility recommendations, to lead new era of user interface for products.
   * Build UX team from one individual contributor to team of three UX designers.
   * Establish user research program and user pool sufficient to fill usability sessions within hours of invitation.
-  * Conduct research activities including focus groups, user testing, and surveys, and report results, including evidence-backed recommendations.
+  * Conduct research activities including focus groups, user testing, and surveys, and report results with evidence-backed recommendations.
 
 
 ### UX/UI Designer <br />OrgSync, Oct 2012 - May 2016
@@ -98,12 +98,14 @@ Instructor for college courses in the Applied Graphic Design Technology departme
 
 ## Professional conferences and training
 
-  * Vista UX Summit – 2017, 2018 (panelist), Dallas, TX
-  * OrgSync Connect (presenter) — 2013, 2014, 2015, Dallas, TX
+  * Artifact Conference – 2019, Austin, TX
+  * Edward Tufte, Presenting Data & Information – 2019, Boston, MA
+  * Vista UX Summit – 2017, 2018 (PANELIST), Dallas, TX
+  * OrgSync Connect (PRESENTER) — 2013, 2014, 2015, Dallas, TX
   * Front Porch — 2013, Dallas, TX
   * DrupalCon Denver — 2012, Denver, CO
   * BADcamp — 2011, Berkeley, CA
-  * OpenCamp (presenter) — 2010, Dallas, TX
+  * OpenCamp (PRESENTER) — 2010, Dallas, TX
   * Drupal Design Camp Boston – 2010, Boston, MA
   * Do It With Drupal — 2009, New Orleans, LA
   * DrupalCamp Austin — 2009, Austin, TX
