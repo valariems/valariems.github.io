@@ -5,7 +5,7 @@ permalink: /resume/
 order: 1
 ---
 
-User experience and interface design expert with over 20 years experience in design, research, prototyping and implementation. I love clean design, typographical hierarchies and logical user flows. I’m passionate about defining problems and developing effective solutions that result in happy users.
+User experience and interface design expert with extensive experience in design, research, prototyping and implementation. I love clean design, typographical hierarchies and logical user flows. I’m passionate about defining problems and developing effective solutions that result in happy users.
 
 ## Skills and competencies
 
@@ -18,7 +18,7 @@ User experience and interface design expert with over 20 years experience in des
   * Implementing mobile-first responsive design techniques.
   * Writing CSS and HTML from scratch.
   * Dedicated to accessibility best practices.
-  * Familiar with GIT, Rails, Angular, Drupal, JavaScript, and jQuery.
+  * Familiar with GIT, Rails, Angular, Jekyll, Gatsby, Drupal, JavaScript, and jQuery.
   * Comfortable working within Agile and Kanban processes.
   * Expert in Illustrator and Photoshop, and happy working in Axure, Sketch, Invision, and other UX/UI tools.
   * Able to write, edit, and proofread content.
