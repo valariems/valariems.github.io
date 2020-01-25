@@ -81,7 +81,7 @@ In-house designer creating marketing communications for company focusing on escr
   * Developed branding and implemented throughout all marketing channels.
   * Produced print collateral and trade show materials, taking project roles including concept, design, copywriting and production.
 
-### Freelance Graphic Designer <br />Various Clients, Jun 1994 - Feb 2005
+### Freelance Graphic Designer <br />Various Clients, through Feb 2005
 
 Freelance print and web design and production for many of Dallas’ top ad agencies, design studios, corporations, and small businesses.
 
